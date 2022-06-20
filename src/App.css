@@ -1,0 +1,169 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+body{
+  overflow-x: hidden;
+}
+/* .container{
+  margin-top: 40px;
+  margin-left: 35px;
+} */
+
+/* 
+.App .row{
+  margin: 42px 0px 0px 33px;
+}
+
+.todo-input{
+  border: solid 4px #5d679963;
+  border-radius: 20px;
+}
+.addtodo-btn {
+  border: none;
+  padding: 9px;
+  margin-left: 13px;
+  background: #aede4e;
+  color: darkblue;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 7px;
+}
+div .delete-btn{
+  border: none;
+  width: 50px; 
+  height:25px ;
+  background:red;
+  color: darkblue;
+  font-size: 14px;
+  font-weight: 500;
+  border-radius: 7px;
+}
+
+.start-btn{
+  border: none;
+  padding: 9px;
+  margin-left: 13px;
+  background: #aede4e;
+  color: darkblue;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 7px;
+}
+.end-btn{
+  border: none;
+  padding: 9px;
+  margin-left: 13px;
+  background: rgb(232, 47, 47);
+  color: darkblue;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 7px;
+}
+.done-btn{
+  border: none;
+  padding: 9px;
+  margin-left: 13px;
+  background: #aede4e;
+  color: darkblue;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 7px;
+} */
+
+/*------ --------TABLE----------- */
+
+tr td{
+  text-align: center;
+}
+
+.delete-todo{
+  cursor: pointer;
+}
+/* 
+body{
+  margin: 25px;
+  overflow-x: hidden;
+}
+.App .input{
+  margin: 50px 0px 50px 0px;
+}
+
+.todo-input{
+  border: solid 4px #5d679963;
+  border-radius: 20px;
+}
+.addtodo-btn {
+  border: none;
+  padding: 9px;
+  margin-left: 13px;
+  background: #aede4e;
+  color: darkblue;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 7px;
+}
+.start-btn{
+  border: none;
+  padding: 9px;
+  margin-left: 13px;
+  background: #aede4e;
+  color: blue;
+  font-size: 18px;
+  font-weight: 500;
+  border-radius: 7px;
+}
+.end-btn{
+  border: none;
+  padding: 9px;
+  margin-left: 13px;
+  background: rgb(232, 47, 47);
+  color: darkblue;
+  font-size: 18px;
+  font-weight: 500;
+  border-radius: 7px;
+}
+.delete-btn{
+  border: none;
+  padding: 9px;
+  margin-left: 13px;
+  background:red;
+  color: darkblue;
+  font-size: 22px;
+  font-weight: 500;
+  border-radius: 7px;
+} */
