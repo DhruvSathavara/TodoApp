@@ -107,9 +107,6 @@ div .delete-btn{
 
 /*------ --------TABLE----------- */
 
-tr td{
-  text-align: center;
-}
 
 .delete-todo{
   cursor: pointer;
@@ -127,16 +124,7 @@ body{
   border: solid 4px #5d679963;
   border-radius: 20px;
 }
-.addtodo-btn {
-  border: none;
-  padding: 9px;
-  margin-left: 13px;
-  background: #aede4e;
-  color: darkblue;
-  font-size: 16px;
-  font-weight: 500;
-  border-radius: 7px;
-}
+
 .start-btn{
   border: none;
   padding: 9px;
@@ -167,3 +155,72 @@ body{
   font-weight: 500;
   border-radius: 7px;
 } */
+.addTodo-div{
+  margin-left: 34rem;
+}
+.addtodo-btn {
+  border: none;
+  padding: 0px;
+  height: 40px;
+  margin-left: 16px;
+  width: 40px;
+  background: #aede4e;
+  color: darkblue;
+  font-size: 18px;
+  font-weight: 500;
+  border-radius: 20px;
+}
+.todo-input{
+  border: solid 4px #5d679963;
+  border-radius: 20px;
+}
+.todo-table{
+  margin-top: 40px;
+}
+.delete-btn {
+  border: none;
+  padding: 5px;
+  margin-left: 0px;
+  background: red;
+  color: darkblue;
+  font-size: 19px;
+  text-decoration: none;
+  font-weight: 500;
+  border-radius: 7px;
+}
+.start-btn{
+  border: none;
+  padding: 9px;
+  margin-left: 13px;
+  background: #aede4e;
+  color: blue;
+  font-size: 15px;
+  border-radius: 7px;
+}
+.end-btn{
+  border: none;
+  padding: 9px;
+  margin-left: 13px;
+  background: rgb(232, 47, 47);
+  color: darkblue;
+  font-size: 15px;
+  border-radius: 7px;
+}
+.done-btn{
+  border: none;
+  padding: 9px;
+  margin-left: 13px;
+  background: #aede4e;
+  color: blue;
+  font-size: 15px;
+  border-radius: 7px;
+}
+tr td{
+  text-align: left;
+  font-size: 19px;
+}
+span{
+  font-family: 'Times New Roman', Times, serif;
+  margin: 17px;
+  font-size: 18px;
+}

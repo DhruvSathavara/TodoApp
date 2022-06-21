@@ -5,7 +5,6 @@ import Todos from "./Todos";
 function App(){
   return(
     <div className="App">
-
       <Todos></Todos>
     </div>
   )
